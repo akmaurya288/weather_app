@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "weather_app",
+    "name": "Weather",
     "slug": "weather_app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icons8-star-96.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icons8-star-96.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,9 +17,13 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "space.krida.weather",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
+      "package": "space.krida.weather",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"

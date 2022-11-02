@@ -15,4 +15,10 @@
       "belongsTo": "Post"
     }
   }
+  "name": {
+    "string": [
+      "Thor",
+      "Loki","Akash"
+    ]
+  }
 }

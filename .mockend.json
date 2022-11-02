@@ -1,9 +1,8 @@
+
 {
   "User": {
     "title": { "string": {} }
-  }
-}
-{
+  },
   "Post": {
     "title": { "string": {} },
     "comments": {
